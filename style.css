@@ -1,16 +1,45 @@
-	body{
-		background: purple;
+body{
+		background: #FEF5E7;  
+
+		 }
+
+	ol{
+		color:  blue;
 	}
+
+	#lii{color: #273746;}
+
+	#cl {
+		background: maroon;
+	}
+	ul{background: #154360;
+
+	}
+	#tst {background: black}
+	#trr {background: blue}
 
 	h1 {text-align: center;
-		color: yellow;}
+		color: black;}
 
 	p{
-		color: grey;
+		color: #34495E  ;
 	}
-	ul{color: blue;}
+	
+	#h {
+		float: right;
+		background-color: #F1948A;
+	}
+	
+	#l {
+		float: left;
+		background-image: url(https://cdn.dribbble.com/users/1188394/screenshots/3141403/portfolio-2-18_teaser.png);
+	}
 
 	#hi{
-		color: orange;
-		font-size: 50px}
-		#m{background: pink}
+		
+		font-size: 20px
+
+	}
+
+	#task8 {color: #1D8348;} 
+		
